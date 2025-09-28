@@ -1,13 +1,6 @@
 body {
     background-image: url(6093807751592525624_99.jpg);
     background-size: cover;
-    margin: 20px;
-    padding: 20px;
-    border: 2px solid black;
-    border-radius: 10px;
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
-    line-height: 1.6;
-    text-align: center;
 }
 h1 {
     font-family: 'Khmer OS Muol Light', Arial, sans-serif;
@@ -46,4 +39,5 @@ button {
 }
 button:hover {
     background-color: deepskyblue;
+
 }

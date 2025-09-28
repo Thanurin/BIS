@@ -1,6 +1,7 @@
 body {
     background-image: url(6093807751592525624_99.jpg);
     background-size: cover;
+    
 }
 h1 {
     font-family: 'Khmer OS Muol Light', Arial, sans-serif;
@@ -41,3 +42,4 @@ button:hover {
     background-color: deepskyblue;
 
 }
+
